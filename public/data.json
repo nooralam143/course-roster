@@ -1,0 +1,74 @@
+[
+  {
+    "id":1001,
+    "img": "https://i.ibb.co/gdFxDpS/Algorithms.png",
+    "title": "Introduction to Algorithms",
+    "dis": "Learn the fundamentals of algorithms and data structures.",
+    "price": 25000,
+    "cradit": 2
+  },
+  {
+    "id":1002,
+    "img": "https://i.ibb.co/H7kVW8m/MySQL.png",
+    "title": "Database (MySQL)",
+    "dis": "Master the art of managing MySQL databases.",
+    "price": 19000,
+    "cradit": 9
+  },
+  {
+    "id":1003,
+    "img": "https://i.ibb.co/PgHpDDG/Problem-Solving.png",
+    "title": "Problem-Solving Techniques",
+    "dis": "Enhance your problem-solving skills and critical thinking.",
+    "price": 23000,
+    "cradit": 2
+  },
+  {
+    "id":1004,
+    "img": "https://i.ibb.co/nPsJNyV/Python.png",
+    "title": "Python Programming",
+    "dis": "Learn Python programming from scratch.",
+    "price": 19000,
+    "cradit": 5
+  },
+  {
+    "id":1005,
+    "img": "https://i.ibb.co/YpGVbST/Software-Engineering.png",
+    "title": "Software Engineering Principles",
+    "dis": "Explore software engineering methodologies and best practices.",
+    "price": 23000,
+    "cradit": 2
+  },
+  {
+    "id":1006,
+    "img": "https://i.ibb.co/0Vhdfhm/AWS.png",
+    "title": "Amazon Web Services (AWS)",
+    "dis": "Become proficient in using AWS cloud services.",
+    "price": 35000,
+    "cradit": 5
+  },
+  {
+    "id":1007,
+    "img": "https://i.ibb.co/Fw5xbHj/C-plus.png",
+    "title": "C++ Programming",
+    "dis": "Learn C++ programming language for software development.",
+    "price": 10000,
+    "cradit": 10
+  },
+  {
+    "id":1008,
+    "img": "https://i.ibb.co/y0mYYnG/C-Programming.png",
+    "title": "C Programming Basics",
+    "dis": "Master the fundamentals of the C programming language.",
+    "price": 15000,
+    "cradit": 1
+  },
+  {
+    "id":1009,
+    "img": "https://i.ibb.co/fNk1vKj/Data-Structures.png",
+    "title": "Data Structures",
+    "dis": "Study various data structures and their applications.",
+    "price": 35000,
+    "cradit": 5
+  }
+]
